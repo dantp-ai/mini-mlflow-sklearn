@@ -42,7 +42,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--n-samples", type=int, default=1500)
     parser.add_argument("--shuffle", type=bool, default=True)
-    parser.add_argument("--noise", type=float, default=0.2)
+    parser.add_argument("--noise", type=float, default=0.3)
     parser.add_argument("--random-state", type=int, default=23423)
     parser.add_argument("--filename", type=str)
     parser.add_argument("--plot", type=bool, default=False)
