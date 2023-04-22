@@ -1,0 +1,4 @@
+outs:
+- md5: 9372f4f8196ec3ce0c146f7da42d5ce2
+  size: 8240
+  path: latest_data.csv
