@@ -3,6 +3,6 @@ numpy==1.22.0
 notebook==6.4.12
 scikit-learn==1.0.2
 matplotlib==3.5.2
-mlflow==2.2.2
+mlflow==2.3.1
 dvc==2.54.0
 pytest==7.1.2
